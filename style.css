@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/8d/b7/0b/8db70beef11ff461cff22c6dd30f919f.jpg);
+  background-size: cover;
+}
+
+p {color: #001b54;
+
+width: 44%;
+font-size: 22px;
+background-color: #abaeb3;
+margin: 35px;
+padding: 11px;
+}
+
+
+a {color: #800057;
+font-size: 22px }
+
+
+h1 {font-size: 52px;
+font-family: courier;
+margin: 15px;
+padding: 40px;
+color: #f2f1ed;
+}
+
+
+
+h2 {font-size: 38px;
+  margin: 15px;
+  padding: 40px;
+font-family: courier;
+color: #f2f1ed;
+}
+
+h3 {font-size: 38px;
+  margin: 15px;
+  padding: 40px;
+font-family: courier;
+color: #f2f1ed;
+}
+
+h4 {font-size: 38px;
+  margin: 15px;
+  padding: 40px;
+font-family: courier;
+color: #f2f1ed;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
